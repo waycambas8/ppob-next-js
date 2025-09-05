@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "header": "Token PLN 20.000",
+    "type": "Listrik",
+    "status": "Aktif",
+    "target": "20000",
+    "limit": "0",
+    "reviewer": "PLN"
+  },
+  {
+    "id": 2,
+    "header": "Token PLN 50.000",
+    "type": "Listrik",
+    "status": "Aktif",
+    "target": "50000",
+    "limit": "0",
+    "reviewer": "PLN"
+  },
+  {
+    "id": 3,
+    "header": "Token PLN 100.000",
+    "type": "Listrik",
+    "status": "Aktif",
+    "target": "100000",
+    "limit": "0",
+    "reviewer": "PLN"
+  },
+  {
+    "id": 4,
+    "header": "Token PLN 200.000",
+    "type": "Listrik",
+    "status": "Aktif",
+    "target": "200000",
+    "limit": "0",
+    "reviewer": "PLN"
+  },
+  {
+    "id": 5,
+    "header": "Token PLN 500.000",
+    "type": "Listrik",
+    "status": "Aktif",
+    "target": "500000",
+    "limit": "0",
+    "reviewer": "PLN"
+  },
+  {
+    "id": 6,
+    "header": "Token PLN 1.000.000",
+    "type": "Listrik",
+    "status": "Aktif",
+    "target": "1000000",
+    "limit": "0",
+    "reviewer": "PLN"
+  }
+]

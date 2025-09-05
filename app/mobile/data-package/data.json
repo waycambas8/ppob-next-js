@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "header": "Paket Harian Hemat",
+    "type": "Harian",
+    "status": "Aktif",
+    "target": "1", 
+    "limit": "5000",
+    "reviewer": "Telkomsel"
+  },
+  {
+    "id": 2,
+    "header": "Paket Mingguan Sosmed",
+    "type": "Mingguan",
+    "status": "Aktif",
+    "target": "7", 
+    "limit": "25000",
+    "reviewer": "Indosat"
+  },
+  {
+    "id": 3,
+    "header": "Paket Bulanan Streaming",
+    "type": "Bulanan",
+    "status": "Aktif",
+    "target": "15",
+    "limit": "75000",
+    "reviewer": "XL Axiata"
+  },
+  {
+    "id": 4,
+    "header": "Paket Unlimited Malam",
+    "type": "Unlimited",
+    "status": "Aktif",
+    "target": "FUP 30",
+    "limit": "60000",
+    "reviewer": "Tri"
+  },
+  {
+    "id": 5,
+    "header": "Paket Combo Data + Telepon",
+    "type": "Bulanan",
+    "status": "Aktif",
+    "target": "10",
+    "limit": "90000",
+    "reviewer": "Smartfren"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "header": "Voucher Makan Rp50.000",
+    "type": "Makanan",
+    "status": "Aktif",
+    "target": "50000",
+    "limit": "100000",
+    "reviewer": "GrabFood"
+  },
+  {
+    "id": 2,
+    "header": "Voucher Belanja Rp25.000",
+    "type": "Belanja",
+    "status": "Aktif",
+    "target": "25000",
+    "limit": "75000",
+    "reviewer": "Tokopedia"
+  },
+  {
+    "id": 3,
+    "header": "Voucher Ongkir Rp10.000",
+    "type": "Transportasi",
+    "status": "Aktif",
+    "target": "10000",
+    "limit": "30000",
+    "reviewer": "Gojek"
+  },
+  {
+    "id": 4,
+    "header": "Voucher Hiburan Rp20.000",
+    "type": "Hiburan",
+    "status": "Aktif",
+    "target": "20000",
+    "limit": "50000",
+    "reviewer": "Netflix"
+  },
+  {
+    "id": 5,
+    "header": "Voucher Pulsa Rp15.000",
+    "type": "Pulsa",
+    "status": "Aktif",
+    "target": "15000",
+    "limit": "50000",
+    "reviewer": "Telkomsel"
+  },
+  {
+    "id": 6,
+    "header": "Voucher Data 2GB",
+    "type": "Data",
+    "status": "Aktif",
+    "target": "20000",
+    "limit": "0",
+    "reviewer": "XL Axiata"
+  },
+  {
+    "id": 7,
+    "header": "Voucher Cashback Rp30.000",
+    "type": "E-Wallet",
+    "status": "Aktif",
+    "target": "30000",
+    "limit": "100000",
+    "reviewer": "OVO"
+  },
+  {
+    "id": 8,
+    "header": "Voucher Diskon Rp40.000",
+    "type": "Belanja",
+    "status": "Aktif",
+    "target": "40000",
+    "limit": "150000",
+    "reviewer": "Shopee"
+  },
+  {
+    "id": 9,
+    "header": "Voucher Parkir Rp5.000",
+    "type": "Transportasi",
+    "status": "Aktif",
+    "target": "5000",
+    "limit": "20000",
+    "reviewer": "Bluebird"
+  },
+  {
+    "id": 10,
+    "header": "Voucher Bioskop Rp25.000",
+    "type": "Hiburan",
+    "status": "Aktif",
+    "target": "25000",
+    "limit": "50000",
+    "reviewer": "CGV"
+  }
+]

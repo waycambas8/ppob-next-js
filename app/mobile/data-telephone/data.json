@@ -1,0 +1,92 @@
+[
+  {
+    "id": 101,
+    "header": "Paket Combo Harian (Data 1GB + Telp 20 Menit)",
+    "type": "Harian",
+    "status": "Aktif",
+    "target": "1",
+    "limit": "8000",
+    "reviewer": "Telkomsel"
+  },
+  {
+    "id": 102,
+    "header": "Paket Combo Harian (Data 2GB + Telp 50 Menit)",
+    "type": "Harian",
+    "status": "Aktif",
+    "target": "2",
+    "limit": "12000",
+    "reviewer": "Indosat"
+  },
+  {
+    "id": 103,
+    "header": "Paket Combo Mingguan (Data 5GB + Telp 100 Menit)",
+    "type": "Mingguan",
+    "status": "Aktif",
+    "target": "5",
+    "limit": "35000",
+    "reviewer": "XL Axiata"
+  },
+  {
+    "id": 104,
+    "header": "Paket Combo Mingguan (Data 7GB + Telp 150 Menit)",
+    "type": "Mingguan",
+    "status": "Aktif",
+    "target": "7",
+    "limit": "45000",
+    "reviewer": "Tri"
+  },
+  {
+    "id": 105,
+    "header": "Paket Combo Bulanan (Data 10GB + Telp 200 Menit)",
+    "type": "Bulanan",
+    "status": "Aktif",
+    "target": "10",
+    "limit": "80000",
+    "reviewer": "Smartfren"
+  },
+  {
+    "id": 106,
+    "header": "Paket Combo Bulanan (Data 15GB + Telp 300 Menit)",
+    "type": "Bulanan",
+    "status": "Aktif",
+    "target": "15",
+    "limit": "100000",
+    "reviewer": "Telkomsel"
+  },
+  {
+    "id": 107,
+    "header": "Paket Combo Bulanan (Data 20GB + Telp 500 Menit)",
+    "type": "Bulanan",
+    "status": "Aktif",
+    "target": "20",
+    "limit": "130000",
+    "reviewer": "Indosat"
+  },
+  {
+    "id": 108,
+    "header": "Paket Combo Bulanan (Data 25GB + Telp 700 Menit)",
+    "type": "Bulanan",
+    "status": "Aktif",
+    "target": "25",
+    "limit": "160000",
+    "reviewer": "XL Axiata"
+  },
+  {
+    "id": 109,
+    "header": "Paket Combo Bulanan (Data 30GB + Telp 1000 Menit)",
+    "type": "Bulanan",
+    "status": "Aktif",
+    "target": "30",
+    "limit": "200000",
+    "reviewer": "Tri"
+  },
+  {
+    "id": 110,
+    "header": "Paket Combo Premium (Data 50GB + Telp Unlimited)",
+    "type": "Bulanan",
+    "status": "Aktif",
+    "target": "50",
+    "limit": "300000",
+    "reviewer": "Telkomsel"
+  }
+]

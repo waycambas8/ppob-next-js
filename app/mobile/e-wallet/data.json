@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "header": "OVO Cashback Harian",
+    "type": "Cashback",
+    "status": "Aktif",
+    "target": "5000",
+    "limit": "50000",
+    "reviewer": "OVO"
+  },
+  {
+    "id": 2,
+    "header": "GoPay Promo Belanja",
+    "type": "Promo",
+    "status": "Aktif",
+    "target": "10000",
+    "limit": "100000",
+    "reviewer": "GoPay"
+  },
+  {
+    "id": 3,
+    "header": "DANA Transfer Gratis",
+    "type": "Transfer",
+    "status": "Aktif",
+    "target": "0",
+    "limit": "2000000",
+    "reviewer": "DANA"
+  },
+  {
+    "id": 4,
+    "header": "ShopeePay Diskon Makan",
+    "type": "Promo",
+    "status": "Aktif",
+    "target": "15000",
+    "limit": "75000",
+    "reviewer": "ShopeePay"
+  },
+  {
+    "id": 5,
+    "header": "LinkAja Cashback Transportasi",
+    "type": "Cashback",
+    "status": "Aktif",
+    "target": "20000",
+    "limit": "100000",
+    "reviewer": "LinkAja"
+  },
+  {
+    "id": 6,
+    "header": "OVO Saldo Bonus",
+    "type": "Saldo",
+    "status": "Tidak Aktif",
+    "target": "25000",
+    "limit": "50000",
+    "reviewer": "OVO"
+  },
+  {
+    "id": 7,
+    "header": "GoPay Top-up Murah",
+    "type": "Top-up",
+    "status": "Aktif",
+    "target": "20000",
+    "limit": "1000000",
+    "reviewer": "GoPay"
+  },
+  {
+    "id": 8,
+    "header": "DANA Cashback Belanja",
+    "type": "Cashback",
+    "status": "Aktif",
+    "target": "10000",
+    "limit": "50000",
+    "reviewer": "DANA"
+  },
+  {
+    "id": 9,
+    "header": "ShopeePay Gratis Ongkir",
+    "type": "Promo",
+    "status": "Aktif",
+    "target": "5000",
+    "limit": "20000",
+    "reviewer": "ShopeePay"
+  },
+  {
+    "id": 10,
+    "header": "LinkAja Paket Internet",
+    "type": "Promo",
+    "status": "Aktif",
+    "target": "30000",
+    "limit": "150000",
+    "reviewer": "LinkAja"
+  }
+]
