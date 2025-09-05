@@ -20,7 +20,25 @@ import {
     CollapsibleTrigger,
 } from "@/components/ui/collapsible"
 
-export function NavTransactions({ items }: { items: any[] }) {
+// Define proper types
+interface SubItem {
+    title: string
+    url: string
+    icon?: React.ComponentType
+}
+
+interface NavItem {
+    title: string
+    url: string
+    icon?: React.ComponentType
+    items?: SubItem[]
+}
+
+interface NavTransactionsProps {
+    items: NavItem[]
+}
+
+export function NavTransactions({ items }: NavTransactionsProps) {
     const pathname = usePathname()
     const [openKeys, setOpenKeys] = React.useState<string[]>([])
 
@@ -37,7 +55,7 @@ export function NavTransactions({ items }: { items: any[] }) {
                 {items.map((item) => {
                     const isParentActive =
                         pathname === item.url ||
-                        item.items?.some((sub: any) => pathname.startsWith(sub.url))
+                        item.items?.some((sub: SubItem) => pathname.startsWith(sub.url))
 
                     const isOpen = openKeys.includes(item.title) || isParentActive
 
@@ -66,7 +84,7 @@ export function NavTransactions({ items }: { items: any[] }) {
                                         </CollapsibleTrigger>
                                         <CollapsibleContent>
                                             <SidebarMenuSub>
-                                                {item.items?.map((subItem: any) => {
+                                                {item.items?.map((subItem: SubItem) => {
                                                     const isSubActive = pathname.startsWith(subItem.url)
                                                     return (
                                                         <SidebarMenuSubItem key={subItem.title}>
